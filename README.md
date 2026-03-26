@@ -1,26 +1,49 @@
-# Profile
+# 🖥️ Digital Literacy Project
+
+A structured project covering digital literacy skills including infographics, online profiles, platform usage, email etiquette, and cybercrime awareness.
 
 ---
 
-### 🎓 Student Information
+## 📁 Repository Structure
 
-| Field | Details |
-| :--- | :--- |
-| **Name** | Krishna Dixit |
-| **Branch** | CSE (AI & ML) |
-| **Year** | 1st Year |
-| **College** | Vellore Institute of Technology, Bhopal |
+```
+digital-literacy-project/
+│
+├── README.md
+├── report/
+│   └── project-report.md
+├── task-1-presentation/
+│
+├── task-2-portfolio/
+│
+├── task-3-platforms/
+│   └── README.md
+├── task-4-email-etiquette/
+│   └── README.md
+└── task-5-cybercrime/
+    ├── Case Study.md
+    └── PREVENTION-CHECKLIST.md
+```
 
 ---
 
-### 🚀 Learning Goals
+## 📌 Task Overview
 
-I hope to build a strong foundation in algorithmic thinking and explore how artificial intelligence can be leveraged to create smarter, more efficient technology.
+| Task | Topic | Status |
+|------|-------|--------|
+| Task 1 | Digital Literacy Infographic | ✅ Done |
+| Task 2 | Digital Profiles & Portfolio | ✅ Done |
+| Task 3 | Platforms — HackerRank + Google Form | ✅ Done |
+| Task 4 | Email Etiquette + Social Media Checklist | ✅ Done |
+| Task 5 | Cybercrime Case Study — UPI Fraud | ✅ Done |
 
 ---
 
-### 🛠️ Tech Stack & Interests
-* **Focus:** Artificial Intelligence & Machine Learning
-* **Languages:** Learning Python, C++
-* **Interests:** Data Structures, Neural Networks, and Automation
+## 🎯 Objective
 
+This project demonstrates practical digital literacy skills required for academic and professional environments — from managing an online presence to recognising cybercrime threats.
+
+---
+
+> Submitted as part of the Digital Literacy course.  
+> All content is original. Screenshots are available in respective task folders.
