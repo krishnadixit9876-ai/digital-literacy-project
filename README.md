@@ -6,7 +6,7 @@ A structured project covering digital literacy skills including infographics, on
 
 ## 📁 Repository Structure
 
-```
+
 digital-literacy-project/
 │
 ├── README.md
@@ -23,7 +23,6 @@ digital-literacy-project/
 └── task-5-cybercrime/
     ├── Case Study.md
     └── PREVENTION-CHECKLIST.md
-```
 
 ---
 
@@ -43,7 +42,3 @@ digital-literacy-project/
 
 This project demonstrates practical digital literacy skills required for academic and professional environments — from managing an online presence to recognising cybercrime threats.
 
----
-
-> Submitted as part of the Digital Literacy course.  
-> All content is original. Screenshots are available in respective task folders.
