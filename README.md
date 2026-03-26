@@ -24,6 +24,3 @@ I hope to build a strong foundation in algorithmic thinking and explore how arti
 * **Languages:** Learning Python, C++
 * **Interests:** Data Structures, Neural Networks, and Automation
 
----
-
-Would you like me to add a **"Connect with me"** section with placeholders for your GitHub or LinkedIn profiles?
