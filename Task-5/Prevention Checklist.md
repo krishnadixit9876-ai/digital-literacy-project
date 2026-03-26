@@ -47,5 +47,3 @@ Use this checklist to protect yourself from UPI and online payment fraud.
 | RBI Ombudsman (Banking fraud) | [cms.rbi.org.in](https://cms.rbi.org.in) |
 
 ---
-
-> **Remember:** The moment someone creates urgency ("your account will be blocked") or offers something too good to be true ("you've won ₹50,000"), treat it as a red flag — not a reason to act fast.
