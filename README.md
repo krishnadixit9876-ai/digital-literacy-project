@@ -6,25 +6,20 @@ A structured project covering digital literacy skills including infographics, on
 
 ## 📁 Repository Structure
 
-'''
-digital-literacy-project/
-│
-├── README.md
-├── report/
-│   └── project-report.md
-├── task-1-presentation/
-│
-├── task-2-portfolio/
-│
-├── task-3-platforms/
+```text
+digital-literacy-project
+├── README.md                     # Main Project Documentation
+├── report/                       
+│   └── project-report.pdf        # Comprehensive Final Report
+├── task-1/                       # Basic Computing & Literacy
+├── task-2-portfolio/             # Personal Branding & Portfolio
+├── task-3-platforms/             # Digital Collaboration Platforms
 │   └── README.md
-├── task-4-email-etiquette/
+├── task-4-email-etiquette/       # Professional Communication Standards
 │   └── README.md
-└── task-5-cybercrime/
+└── task-5-cybercrime/            # Cybersecurity Awareness
     ├── Case Study.md
     └── PREVENTION-CHECKLIST.md
-'''
-
 ---
 
 ## 📌 Task Overview
