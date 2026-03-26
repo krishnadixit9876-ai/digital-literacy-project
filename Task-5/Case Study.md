@@ -24,15 +24,6 @@ A complaint was filed at cybercrime.gov.in and on helpline **1930**. The bank fr
 
 ---
 
-## 🗂️ Files in This Folder
-
-| File | Description |
-|------|-------------|
-| `README.md` | Case study and reflection |
-| `PREVENTION-CHECKLIST.md` | 10-point UPI fraud prevention checklist |
-
----
-
 ## 📝 Reflection 
 
 Writing this case study made me look at UPI fraud differently. It is not a "tech" crime — it is a psychological one. The scammer did not hack anything. They used fear and urgency to make a normal person bypass their own common sense. That is far more dangerous than a technical attack, because it can happen to anyone regardless of how tech-savvy they are.
